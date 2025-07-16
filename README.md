@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maxine020115@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/maxine-wang020115](www.linkedin.com/in/maxine-wang020115)
+- 📄 Know about my experiences [www.linkedin.com/in/maxine-wang020115](www.linkedin.com/in/maxine-wong020115)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
