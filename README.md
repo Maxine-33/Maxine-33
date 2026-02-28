@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxine</h1>
-<h3 align="center">Traditional VC | DeFi Exploration</h3>
+<h3 align="center">AI | Crypto | ex-VC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxine33&label=Profile%20views&color=0e75b6&style=flat" alt="maxine33" /> </p>
 
-- 🔭 I’m currently working on **transitioning from traditional VC to Web3 investment research**
+- 🔭 I’m currently working on **Crypto and AI area**
 
 - 👨‍💻 All of learning documents are available at [https://gww4tyg6ao.feishu.cn/docx/HA9qdR6Rgou5pqxgzEGci3VFnqb?from=from_copylink](https://gww4tyg6ao.feishu.cn/docx/HA9qdR6Rgou5pqxgzEGci3VFnqb?from=from_copylink)
 
