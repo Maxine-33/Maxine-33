@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxine</h1>
-<h3 align="center">AI | Crypto | ex-VC</h3>
+<h3 align="center">AI | ex-Crypto | ex-VC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxine33&label=Profile%20views&color=0e75b6&style=flat" alt="maxine33" /> </p>
 
