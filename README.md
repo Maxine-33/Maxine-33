@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxine33&label=Profile%20views&color=0e75b6&style=flat" alt="maxine33" /> </p>
 
-- 🔭 I’m currently working on **Crypto and AI area**
-
-- 👨‍💻 All of learning documents are available at [https://gww4tyg6ao.feishu.cn/docx/HA9qdR6Rgou5pqxgzEGci3VFnqb?from=from_copylink](https://gww4tyg6ao.feishu.cn/docx/HA9qdR6Rgou5pqxgzEGci3VFnqb?from=from_copylink)
-
 - 📫 How to reach me **maxine020115@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/maxine-wong020115](www.linkedin.com/in/maxine-wong020115)
